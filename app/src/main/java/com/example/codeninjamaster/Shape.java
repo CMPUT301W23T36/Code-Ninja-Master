@@ -2,6 +2,6 @@ package com.example.codeninjamaster;
 
 public abstract class Shape {
     private int x;
-    private int y;
-    String color = "indigo";
+    private int y;  
+    String color = "blue";
 }
